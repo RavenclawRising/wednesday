@@ -1,1 +1,6 @@
 This is my text file added to a repo as requested. Did I do it correctly?
+I created the file at GitHub.
+
+These are the changes I made using notepad.
+I am pushing my changes back to GitHub using Git Bash.
+I need ALL the extra practice I can get manipulating Git files! 
